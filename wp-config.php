@@ -21,8 +21,6 @@ define('DB_NAME', 'test-wp');
 /** MySQL database username */
 define('DB_USER', 'root');
 
-/** added in to test git
-
 /** MySQL database password */
 define('DB_PASSWORD', 'root');
 
